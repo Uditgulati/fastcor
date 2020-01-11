@@ -1,0 +1,2 @@
+export(pearson)
+useDynLib(fastcor, R_cor_mat)
